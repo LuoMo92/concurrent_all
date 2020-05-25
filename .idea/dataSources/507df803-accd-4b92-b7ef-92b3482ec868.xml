@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <dataSource name="Oracle - @localhost">
-  <database-model serializer="dbm" dbms="ORACLE" family-id="ORACLE" format-version="4.15">
+  <database-model serializer="dbm" dbms="ORACLE" family-id="ORACLE" format-version="4.17">
     <root id="1">
       <ServerVersion>11.2.0.2.0</ServerVersion>
     </root>
@@ -33,7 +33,6 @@
       <CreatedTimestamp>2011-08-29.06:10:49</CreatedTimestamp>
       <ModifiedTimestamp>2019-11-27.17:54:03</ModifiedTimestamp>
       <IntrospectionTimestamp>2019-11-27.17:59:18</IntrospectionTimestamp>
-      <Visible>1</Visible>
     </schema>
     <schema id="11" parent="1" name="SCOTT">
       <ObjectId>48</ObjectId>
@@ -41,18 +40,14 @@
       <ModifiedTimestamp>2019-11-27.18:14:02</ModifiedTimestamp>
       <IntrospectionTimestamp>2019-11-27.18:14:56</IntrospectionTimestamp>
       <Current>1</Current>
-      <Visible>1</Visible>
     </schema>
     <schema id="12" parent="1" name="SYS">
       <ObjectId>0</ObjectId>
-      <Substituted>1</Substituted>
     </schema>
     <schema id="13" parent="1" name="SYSTEM">
       <ObjectId>5</ObjectId>
       <CreatedTimestamp>2011-08-29.06:10:59</CreatedTimestamp>
       <ModifiedTimestamp>2011-08-29.06:18:14</ModifiedTimestamp>
-      <IntrospectionTimestamp>2019-11-27.18:14:38</IntrospectionTimestamp>
-      <Substituted>1</Substituted>
     </schema>
     <schema id="14" parent="1" name="XDB">
       <ObjectId>34</ObjectId>
