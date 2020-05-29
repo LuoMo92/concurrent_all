@@ -1,5 +1,5 @@
-/.idea/**
-/case_java7/target/**
-/case_java8/target/**
-/case_java8/.idea/**
+case_java7/target/**
+case_java8/target/**
+case_java8/.idea/**
 *.iml
+.idea
